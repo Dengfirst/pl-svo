@@ -756,12 +756,15 @@ int main(int argc, char** argv)
         parser.printErrors();
         return 0;
     }
-    std::string dataset_dir( std::getenv("DATASETS_DIR") + dataset_name );
+    //std::string dataset_dir( std::getenv("DATASETS_DIR") + dataset_name );
+    std::string dataset_dir( "/home/dy/release/dataset/pl_svo/" + dataset_name );
     opts.dataset_dir = dataset_dir;
 
     // Read content of the .yaml dataset configuration file
     YAML::Node dset_config = YAML::LoadFile(dataset_dir+"/dataset_params.yaml");
-    string img_dir = dataset_dir + "/" + dset_config["images_subfolder"].as<string>();
+    std::cout << "first step" << std::endl;
+    //string img_dir = dataset_dir + "/" + dset_config["img"].as<string>();
+    string img_dir = dataset_dir +"/img/";
     opts.images_dir = img_dir;
 
     // Setup camera and run node
