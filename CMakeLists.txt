@@ -12,7 +12,7 @@ SET(HAS_MRPT ${DEFAULT_HAS_MRPT} CACHE BOOL "Build the representation api which 
 SET(PROJECT_NAME plsvo)
 PROJECT(${PROJECT_NAME})
 CMAKE_MINIMUM_REQUIRED (VERSION 2.8.3)
-SET(CMAKE_BUILD_TYPE Debug) # Release, RelWithDebInfo -> Set in cmake-gui option
+SET(CMAKE_BUILD_TYPE Release) # Release, RelWithDebInfo -> Set in cmake-gui option
 SET(CMAKE_VERBOSE_MAKEFILE OFF)
 SET(CMAKE_MODULE_PATH ${CMAKE_MODULE_PATH} "${PROJECT_SOURCE_DIR}/CMakeModules/")
 

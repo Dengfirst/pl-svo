@@ -1,0 +1,769 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="plsvo" targetName="roscpp_generate_messages_cpp" />
+      <config projectName="plsvo" targetName="plsvo_includes" />
+      <config projectName="plsvo" targetName="roscpp_generate_messages_eus" />
+      <config projectName="plsvo" targetName="plsvo" />
+      <config projectName="plsvo" targetName="roscpp_generate_messages_lisp" />
+      <config projectName="plsvo" targetName="std_msgs_generate_messages_lisp" />
+      <config projectName="plsvo" targetName="rosgraph_msgs_generate_messages_py" />
+      <config projectName="plsvo" targetName="rosgraph_msgs_generate_messages_nodejs" />
+      <config projectName="plsvo" targetName="std_msgs_generate_messages_eus" />
+      <config projectName="plsvo" targetName="std_msgs_generate_messages_cpp" />
+      <config projectName="plsvo" targetName="run_pipeline" />
+      <config projectName="plsvo" targetName="std_msgs_generate_messages_py" />
+      <config projectName="plsvo" targetName="std_msgs_generate_messages_nodejs" />
+      <config projectName="plsvo" targetName="roscpp_generate_messages_nodejs" />
+      <config projectName="plsvo" targetName="roscpp_generate_messages_py" />
+      <config projectName="plsvo" targetName="rosgraph_msgs_generate_messages_lisp" />
+      <config projectName="plsvo" targetName="rosgraph_msgs_generate_messages_eus" />
+      <config projectName="plsvo" targetName="rosgraph_msgs_generate_messages_cpp" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ee6bb597-934f-44de-84e3-3d1522fe74a0" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3rdparty/line_descriptor/lib/liblinedesc.so" afterPath="$PROJECT_DIR$/3rdparty/line_descriptor/lib/liblinedesc.so" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CMakeLists.txt" afterPath="$PROJECT_DIR$/CMakeLists.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/run_pipeline.cpp" afterPath="$PROJECT_DIR$/app/run_pipeline.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.sh" afterPath="$PROJECT_DIR$/build.sh" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="run_pipeline.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/run_pipeline.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="226">
+              <caret line="801" column="5" lean-forward="true" selection-start-line="801" selection-start-column="5" selection-end-line="801" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="14" column="28" lean-forward="false" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="frame.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/frame.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1098">
+              <caret line="61" column="65" lean-forward="false" selection-start-line="61" selection-start-column="65" selection-end-line="61" selection-end-column="65" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="abstract_camera.h" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/catkin_ws/src/svo/rpg_vikit/vikit_common/include/vikit/abstract_camera.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="282">
+              <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="frame.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/include/plsvo/frame.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-6">
+              <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="impl.h" pinned="false" current-in-tab="false">
+        <entry file="file:///usr/include/yaml-cpp/node/impl.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="882">
+              <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="shared_ptr.hpp" pinned="false" current-in-tab="false">
+        <entry file="file:///usr/include/boost/smart_ptr/shared_ptr.hpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="11646">
+              <caret line="647" column="0" lean-forward="false" selection-start-line="647" selection-start-column="0" selection-end-line="647" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="node.h" pinned="false" current-in-tab="false">
+        <entry file="file:///usr/include/yaml-cpp/node/detail/node.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="486">
+              <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="basic_string.h" pinned="false" current-in-tab="false">
+        <entry file="file:///usr/include/c++/5/bits/basic_string.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88884">
+              <caret line="4938" column="0" lean-forward="false" selection-start-line="4938" selection-start-column="0" selection-end-line="4938" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="node_ref.h" pinned="false" current-in-tab="false">
+        <entry file="file:///usr/include/yaml-cpp/node/detail/node_ref.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>cam_cx</find>
+      <find>TypedBadConversion</find>
+      <find>img_dir</find>
+      <find>images_dir</find>
+      <find>dset_config</find>
+      <find>rig</find>
+      <find>initFrame</find>
+      <find>Frame</find>
+      <find>cam_</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/run_pipeline.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="145" />
+    <option name="y" value="-4" />
+    <option name="width" value="1400" />
+    <option name="height" value="1028" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="plsvo" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="pl-svo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="plsvo" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="pl-svo" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.run_pipeline">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <envs />
+    </configuration>
+    <configuration name="plsvo" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="plsvo" TARGET_NAME="plsvo" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="plsvo_includes" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="plsvo" TARGET_NAME="plsvo_includes" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="roscpp_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="plsvo" TARGET_NAME="roscpp_generate_messages_cpp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="roscpp_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="plsvo" TARGET_NAME="roscpp_generate_messages_eus" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="roscpp_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="plsvo" TARGET_NAME="roscpp_generate_messages_lisp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="roscpp_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="plsvo" TARGET_NAME="roscpp_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="roscpp_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="plsvo" TARGET_NAME="roscpp_generate_messages_py" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="rosgraph_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="plsvo" TARGET_NAME="rosgraph_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="rosgraph_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="plsvo" TARGET_NAME="rosgraph_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="rosgraph_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="plsvo" TARGET_NAME="rosgraph_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="rosgraph_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="plsvo" TARGET_NAME="rosgraph_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="rosgraph_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="plsvo" TARGET_NAME="rosgraph_msgs_generate_messages_py" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="run_pipeline" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="rgbd_dataset_freiburg2_xyz" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="plsvo" TARGET_NAME="run_pipeline" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="plsvo" RUN_TARGET_NAME="run_pipeline">
+      <envs />
+    </configuration>
+    <configuration name="std_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="plsvo" TARGET_NAME="std_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="std_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="plsvo" TARGET_NAME="std_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="std_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="plsvo" TARGET_NAME="std_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="std_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="plsvo" TARGET_NAME="std_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="std_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="plsvo" TARGET_NAME="std_msgs_generate_messages_py" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <list size="19">
+      <item index="0" class="java.lang.String" itemvalue="Application.Build All" />
+      <item index="1" class="java.lang.String" itemvalue="Application.plsvo" />
+      <item index="2" class="java.lang.String" itemvalue="Application.plsvo_includes" />
+      <item index="3" class="java.lang.String" itemvalue="Application.roscpp_generate_messages_cpp" />
+      <item index="4" class="java.lang.String" itemvalue="Application.roscpp_generate_messages_eus" />
+      <item index="5" class="java.lang.String" itemvalue="Application.roscpp_generate_messages_lisp" />
+      <item index="6" class="java.lang.String" itemvalue="Application.roscpp_generate_messages_nodejs" />
+      <item index="7" class="java.lang.String" itemvalue="Application.roscpp_generate_messages_py" />
+      <item index="8" class="java.lang.String" itemvalue="Application.rosgraph_msgs_generate_messages_cpp" />
+      <item index="9" class="java.lang.String" itemvalue="Application.rosgraph_msgs_generate_messages_eus" />
+      <item index="10" class="java.lang.String" itemvalue="Application.rosgraph_msgs_generate_messages_lisp" />
+      <item index="11" class="java.lang.String" itemvalue="Application.rosgraph_msgs_generate_messages_nodejs" />
+      <item index="12" class="java.lang.String" itemvalue="Application.rosgraph_msgs_generate_messages_py" />
+      <item index="13" class="java.lang.String" itemvalue="Application.run_pipeline" />
+      <item index="14" class="java.lang.String" itemvalue="Application.std_msgs_generate_messages_cpp" />
+      <item index="15" class="java.lang.String" itemvalue="Application.std_msgs_generate_messages_eus" />
+      <item index="16" class="java.lang.String" itemvalue="Application.std_msgs_generate_messages_lisp" />
+      <item index="17" class="java.lang.String" itemvalue="Application.std_msgs_generate_messages_nodejs" />
+      <item index="18" class="java.lang.String" itemvalue="Application.std_msgs_generate_messages_py" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee6bb597-934f-44de-84e3-3d1522fe74a0" name="Default" comment="" />
+      <created>1540383988070</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540383988070</updated>
+      <workItem from="1540383992218" duration="309000" />
+      <workItem from="1540384341595" duration="239000" />
+      <workItem from="1540384609445" duration="276000" />
+      <workItem from="1540384901280" duration="315000" />
+      <workItem from="1540385774206" duration="670000" />
+      <workItem from="1540386457949" duration="209000" />
+      <workItem from="1540386744737" duration="292000" />
+      <workItem from="1540387047828" duration="63000" />
+      <workItem from="1540387184628" duration="1233000" />
+      <workItem from="1540388596061" duration="746000" />
+      <workItem from="1540390560411" duration="109000" />
+      <workItem from="1540390764269" duration="283000" />
+      <workItem from="1540391364591" duration="16000" />
+      <workItem from="1540391487866" duration="73000" />
+      <workItem from="1540391710385" duration="1104000" />
+      <workItem from="1540392859583" duration="1158000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7095000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959569" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32869378" sideWeight="0.4980695" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32869378" sideWeight="0.5019305" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32976446" sideWeight="0.4980695" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32869378" sideWeight="0.4980695" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3092999" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3291536" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="28" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="31" lean-forward="false" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/5/bits/basic_string.tcc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20700">
+          <caret line="1150" column="0" lean-forward="false" selection-start-line="1150" selection-start-column="0" selection-end-line="1150" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/yaml-cpp/node/impl.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2304">
+          <caret line="128" column="0" lean-forward="false" selection-start-line="128" selection-start-column="0" selection-end-line="128" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/yaml-cpp/node/parse.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="18" lean-forward="false" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/5/bits/basic_string.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86742">
+          <caret line="4819" column="0" lean-forward="false" selection-start-line="4819" selection-start-column="0" selection-end-line="4819" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/run_pipeline.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13716">
+          <caret line="762" column="57" lean-forward="true" selection-start-line="762" selection-start-column="57" selection-end-line="762" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="31" lean-forward="false" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/5/bits/basic_string.tcc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20700">
+          <caret line="1150" column="0" lean-forward="false" selection-start-line="1150" selection-start-column="0" selection-end-line="1150" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/yaml-cpp/node/impl.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2304">
+          <caret line="128" column="0" lean-forward="false" selection-start-line="128" selection-start-column="0" selection-end-line="128" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/yaml-cpp/node/parse.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="50" lean-forward="false" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/5/bits/basic_string.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86742">
+          <caret line="4819" column="0" lean-forward="false" selection-start-line="4819" selection-start-column="0" selection-end-line="4819" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/run_pipeline.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13752">
+          <caret line="764" column="41" lean-forward="false" selection-start-line="764" selection-start-column="41" selection-end-line="764" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="31" lean-forward="false" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/5/bits/basic_string.tcc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20700">
+          <caret line="1150" column="0" lean-forward="false" selection-start-line="1150" selection-start-column="0" selection-end-line="1150" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/yaml-cpp/node/impl.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2304">
+          <caret line="128" column="0" lean-forward="false" selection-start-line="128" selection-start-column="0" selection-end-line="128" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/yaml-cpp/node/parse.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="50" lean-forward="false" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/5/bits/basic_string.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86742">
+          <caret line="4819" column="0" lean-forward="false" selection-start-line="4819" selection-start-column="0" selection-end-line="4819" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/run_pipeline.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13788">
+          <caret line="766" column="86" lean-forward="true" selection-start-line="766" selection-start-column="86" selection-end-line="766" selection-end-column="86" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="31" lean-forward="false" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/5/bits/basic_string.tcc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20700">
+          <caret line="1150" column="0" lean-forward="false" selection-start-line="1150" selection-start-column="0" selection-end-line="1150" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/yaml-cpp/node/impl.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4860">
+          <caret line="270" column="0" lean-forward="false" selection-start-line="270" selection-start-column="0" selection-end-line="270" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/yaml-cpp/node/parse.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="50" lean-forward="false" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/5/bits/basic_string.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86742">
+          <caret line="4819" column="0" lean-forward="false" selection-start-line="4819" selection-start-column="0" selection-end-line="4819" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/run_pipeline.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13770">
+          <caret line="765" column="43" lean-forward="false" selection-start-line="765" selection-start-column="32" selection-end-line="765" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="31" lean-forward="false" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/yaml-cpp/node/parse.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="50" lean-forward="false" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/5/bits/basic_string.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6804">
+          <caret line="378" column="6" lean-forward="false" selection-start-line="378" selection-start-column="6" selection-end-line="378" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/run_pipeline.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13752">
+          <caret line="764" column="47" lean-forward="false" selection-start-line="764" selection-start-column="44" selection-end-line="764" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="31" lean-forward="false" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/yaml-cpp/node/parse.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="50" lean-forward="false" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/5/bits/basic_string.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6804">
+          <caret line="378" column="6" lean-forward="false" selection-start-line="378" selection-start-column="6" selection-end-line="378" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/run_pipeline.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13680">
+          <caret line="760" column="0" lean-forward="true" selection-start-line="760" selection-start-column="0" selection-end-line="760" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="31" lean-forward="false" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/run_pipeline.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13716">
+          <caret line="762" column="0" lean-forward="false" selection-start-line="762" selection-start-column="0" selection-end-line="762" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/5/bits/basic_string.tcc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20700">
+          <caret line="1150" column="0" lean-forward="false" selection-start-line="1150" selection-start-column="0" selection-end-line="1150" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/yaml-cpp/node/parse.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="18" lean-forward="false" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/boost/smart_ptr/detail/sp_counted_base_gcc_x86.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="134" column="0" lean-forward="false" selection-start-line="134" selection-start-column="0" selection-end-line="134" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/boost/smart_ptr/detail/shared_count.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8172">
+          <caret line="454" column="0" lean-forward="false" selection-start-line="454" selection-start-column="0" selection-end-line="454" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/5/bits/stl_map.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6084">
+          <caret line="338" column="0" lean-forward="false" selection-start-line="338" selection-start-column="0" selection-end-line="338" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/yaml-cpp/node/detail/impl.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2106">
+          <caret line="117" column="0" lean-forward="false" selection-start-line="117" selection-start-column="0" selection-end-line="117" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/dataset_params.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="24" lean-forward="false" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/boost/smart_ptr/shared_ptr.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11646">
+          <caret line="647" column="0" lean-forward="false" selection-start-line="647" selection-start-column="0" selection-end-line="647" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/yaml-cpp/node/detail/node_ref.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/yaml-cpp/node/detail/node.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/yaml-cpp/node/impl.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="882">
+          <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/5/bits/basic_string.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88884">
+          <caret line="4938" column="0" lean-forward="false" selection-start-line="4938" selection-start-column="0" selection-end-line="4938" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/frame.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1098">
+          <caret line="61" column="65" lean-forward="false" selection-start-line="61" selection-start-column="65" selection-end-line="61" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/catkin_ws/src/svo/rpg_vikit/vikit_common/include/vikit/abstract_camera.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/plsvo/frame.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6">
+          <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="28" lean-forward="false" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/run_pipeline.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="801" column="5" lean-forward="true" selection-start-line="801" selection-start-column="5" selection-end-line="801" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
